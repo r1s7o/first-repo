@@ -1,11 +1,7 @@
-<<<<<<< HEAD
 first repo file
 second text
-=======
-<<<<<<< HEAD
 first repo file
+
 first added text
-=======
+
 first repo file
->>>>>>> 384a2a80083763855355b26de3eb0e0b55073a07
->>>>>>> e865de0ce8c0b86192539a1c1ecda2fc285ac04c
